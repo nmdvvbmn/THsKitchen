@@ -32,7 +32,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37a551d9-8a12-46b3-bc58-8475ed7ba107" name="Default Changelist" comment="1st study ver">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ths/a20210713_sqllitehelper/IList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ths/a20210713_sqllitehelper/IList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627263320725</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1st study ver">
+      <created>1627263478179</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1627263478179</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,10 +302,10 @@
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
     <state x="5360" y="714" key="FileChooserDialogImpl/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627261956470" />
-    <state x="5421" y="857" key="Github.ShareDialog" timestamp="1627262124644">
+    <state x="5421" y="857" key="Github.ShareDialog" timestamp="1627264322561">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
-    <state x="5421" y="857" key="Github.ShareDialog/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627262124644" />
+    <state x="5421" y="857" key="Github.ShareDialog/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627264322561" />
     <state x="5233" y="664" key="Github.UntrackedFilesDialog" timestamp="1627257490824">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
@@ -351,18 +358,18 @@
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
     <state x="5088" y="604" key="SettingsEditor/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627257393984" />
-    <state x="5172" y="679" key="Vcs.Push.Dialog.v2" timestamp="1627262514916">
+    <state x="5172" y="679" key="Vcs.Push.Dialog.v2" timestamp="1627264379693">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
-    <state x="5172" y="679" key="Vcs.Push.Dialog.v2/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627262514916" />
+    <state x="5172" y="679" key="Vcs.Push.Dialog.v2/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627264379693" />
     <state x="5382" y="737" key="chooseDestDirectoryDialog" timestamp="1626910411398">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
     <state x="5382" y="737" key="chooseDestDirectoryDialog/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626910411398" />
-    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627263300179">
+    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627264616070">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
-    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627263300179" />
+    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627264616070" />
     <state x="5108" y="688" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1626413780261">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
