@@ -2126,8 +2126,8 @@ int id radio 0x7f08013e
 int id ratio 0x7f08013f
 int id rectangles 0x7f080140
 int id recycleIList 0x7f080141
-int id recycleRList 0x7f0801ca
-int id recyclerDList 0x7f080142
+int id recycleRList 0x7f080142
+int id recyclerDList 0x7f080143
 int id recycler_view 0x7f080144
 int id reverseSawtooth 0x7f080145
 int id right 0x7f080146

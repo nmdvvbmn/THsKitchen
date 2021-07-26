@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\TH\\AndroidStudioProjects\\20210713_SQLliteHelper\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
+            "outputFile": "C:\\Users\\TH\\AndroidStudioProjects\\TheTHsKitchen20210726\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
             "map": [
                 {
                     "source": "C:\\Users\\TH\\.gradle\\caches\\transforms-2\\files-2.1\\d4df58e134d898fbbcb9f3dbcb32eef0\\navigation-ui-2.3.5\\res\\values-bs\\values-bs.xml",
