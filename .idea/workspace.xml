@@ -32,14 +32,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37a551d9-8a12-46b3-bc58-8475ed7ba107" name="Default Changelist" comment="1st study ver">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/20210713_SQLliteHelper.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/20210713_SQLliteHelper.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ths/a20210713_sqllitehelper/IList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ths/a20210713_sqllitehelper/IList.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@0123456789ABCDEF]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -80,7 +83,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="PsdUISettings">
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
@@ -248,8 +251,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="1st study ver" />
     <option name="LAST_COMMIT_MESSAGE" value="1st study ver" />
   </component>
@@ -258,9 +265,10 @@
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
     <state x="5342" y="586" key="#Auto_Import/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626310685836" />
-    <state x="5097" y="705" key="#PSD" timestamp="1626839743866">
-      <screen x="3840" y="0" width="3478" height="1917" />
+    <state x="694" y="382" key="#PSD" timestamp="1627265432582">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="694" y="382" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1627265432582" />
     <state x="5097" y="705" key="#PSD/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626839743866" />
     <state x="5370" y="675" key="#com.intellij.ide.util.MemberChooser" timestamp="1626934182888">
       <screen x="3840" y="0" width="3478" height="1917" />
@@ -310,24 +318,28 @@
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
     <state x="5233" y="664" key="Github.UntrackedFilesDialog/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627257490824" />
-    <state width="3435" height="571" key="GridCell.Tab.0.bottom" timestamp="1627017896455">
-      <screen x="0" y="0" width="3478" height="1917" />
+    <state width="1877" height="240" key="GridCell.Tab.0.bottom" timestamp="1627265444973">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1627265444973" />
     <state width="3435" height="571" key="GridCell.Tab.0.bottom/0.0.3478.1917/3840.0.3478.1917@0.0.3478.1917" timestamp="1627017896455" />
     <state width="3435" height="571" key="GridCell.Tab.0.bottom/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626998339781" />
-    <state width="3435" height="571" key="GridCell.Tab.0.center" timestamp="1627017896455">
-      <screen x="0" y="0" width="3478" height="1917" />
+    <state width="1877" height="240" key="GridCell.Tab.0.center" timestamp="1627265444973">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1627265444973" />
     <state width="3435" height="571" key="GridCell.Tab.0.center/0.0.3478.1917/3840.0.3478.1917@0.0.3478.1917" timestamp="1627017896455" />
     <state width="3435" height="571" key="GridCell.Tab.0.center/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626998339781" />
-    <state width="3435" height="571" key="GridCell.Tab.0.left" timestamp="1627017896455">
-      <screen x="0" y="0" width="3478" height="1917" />
+    <state width="1877" height="240" key="GridCell.Tab.0.left" timestamp="1627265444973">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1627265444973" />
     <state width="3435" height="571" key="GridCell.Tab.0.left/0.0.3478.1917/3840.0.3478.1917@0.0.3478.1917" timestamp="1627017896455" />
     <state width="3435" height="571" key="GridCell.Tab.0.left/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626998339781" />
-    <state width="3435" height="571" key="GridCell.Tab.0.right" timestamp="1627017896455">
-      <screen x="0" y="0" width="3478" height="1917" />
+    <state width="1877" height="240" key="GridCell.Tab.0.right" timestamp="1627265444973">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627265444973" />
     <state width="3435" height="571" key="GridCell.Tab.0.right/0.0.3478.1917/3840.0.3478.1917@0.0.3478.1917" timestamp="1627017896455" />
     <state width="3435" height="571" key="GridCell.Tab.0.right/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626998339781" />
     <state width="3435" height="571" key="GridCell.Tab.1.bottom" timestamp="1627017896455">
@@ -354,9 +366,10 @@
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
     <state x="5263" y="680" key="RollbackChangesDialog/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627261964581" />
-    <state x="5088" y="604" key="SettingsEditor" timestamp="1627257393984">
-      <screen x="3840" y="0" width="3478" height="1917" />
+    <state x="689" y="328" key="SettingsEditor" timestamp="1627265119856">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="689" y="328" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1627265119856" />
     <state x="5088" y="604" key="SettingsEditor/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627257393984" />
     <state x="5172" y="679" key="Vcs.Push.Dialog.v2" timestamp="1627264379693">
       <screen x="3840" y="0" width="3478" height="1917" />
