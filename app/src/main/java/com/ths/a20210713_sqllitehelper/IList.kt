@@ -8,4 +8,4 @@ data class IList(
     var name:String,
     var qunt: Float,
     var quntunit: String,
-    var need: Boolean ): Serializable //testf
+    var need: Boolean ): Serializable //testfxc

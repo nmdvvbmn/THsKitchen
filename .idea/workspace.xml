@@ -215,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627262511128</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1st study ver">
+      <created>1627262706515</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1627262706515</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,10 +353,10 @@
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
     <state x="5382" y="737" key="chooseDestDirectoryDialog/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626910411398" />
-    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627262689604">
+    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627263300179">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
-    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627262689604" />
+    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627263300179" />
     <state x="5108" y="688" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1626413780261">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
