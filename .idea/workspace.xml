@@ -33,6 +33,7 @@
   <component name="ChangeListManager">
     <list default="true" id="37a551d9-8a12-46b3-bc58-8475ed7ba107" name="Default Changelist" comment="1st study ver">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ths/a20210713_sqllitehelper/IList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ths/a20210713_sqllitehelper/IList.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627262162496</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1st study ver">
+      <created>1627262511128</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627262511128</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,18 +338,18 @@
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
     <state x="5088" y="604" key="SettingsEditor/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627257393984" />
-    <state x="5172" y="679" key="Vcs.Push.Dialog.v2" timestamp="1627262196109">
+    <state x="5172" y="679" key="Vcs.Push.Dialog.v2" timestamp="1627262514916">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
-    <state x="5172" y="679" key="Vcs.Push.Dialog.v2/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627262196109" />
+    <state x="5172" y="679" key="Vcs.Push.Dialog.v2/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627262514916" />
     <state x="5382" y="737" key="chooseDestDirectoryDialog" timestamp="1626910411398">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
     <state x="5382" y="737" key="chooseDestDirectoryDialog/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626910411398" />
-    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627262476720">
+    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627262689604">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
-    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627262476720" />
+    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627262689604" />
     <state x="5108" y="688" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1626413780261">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
